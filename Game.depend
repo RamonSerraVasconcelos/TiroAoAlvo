@@ -1,0 +1,315 @@
+# depslib dependency file v1.0
+1599100204 source:d:\programacao\linguagem c\programas\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<dos.h>
+	<windows.h>
+	"lista.h"
+	"console.h"
+	"controle.h"
+	"bala.h"
+	"alvo.h"
+	"personagem.h"
+
+1598056517 source:d:\programacao\linguagem c\programas\jogo\removescrollbar.c
+	<windows.h>
+	"console.h"
+
+1598996232 d:\programacao\linguagem c\programas\jogo\console.h
+
+1598996216 source:d:\programacao\linguagem c\programas\jogo\console.c
+	<windows.h>
+	<conio.h>
+	"console.h"
+
+1599096148 source:d:\programacao\linguagem c\programas\jogo\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"console.h"
+	"personagem.h"
+
+1598995450 d:\programacao\linguagem c\programas\jogo\lista.h
+
+1216142005 c:\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1599099108 source:d:\programacao\linguagem c\programas\jogo\personagem.c
+	<stdio.h>
+	"lista.h"
+	"console.h"
+	"personagem.h"
+
+1599099930 d:\programacao\linguagem c\programas\jogo\personagem.h
+
+1599099086 source:d:\programacao\linguagem c\programas\jogo\controle.c
+	<stdio.h>
+	<unistd.h>
+	<time.h>
+	<windows.h>
+	"lista.h"
+	"console.h"
+	"controle.h"
+	"bala.h"
+	"alvo.h"
+	"personagem.h"
+
+1599100026 d:\programacao\linguagem c\programas\jogo\controle.h
+
+1598986703 source:d:\programacao\linguagem c\programas\jogo\inicio.c
+	<unistd.h>
+	<stdio.h>
+	<windows.h>
+	<time.h>
+	"lista.h"
+	"console.h"
+	"controle.h"
+	"personagem.h"
+
+1598986728 d:\programacao\linguagem c\programas\jogo\inicio.h
+
+1599099908 d:\programacao\linguagem c\programas\jogo\alvo.h
+
+1599099020 source:d:\programacao\linguagem c\programas\jogo\alvo.c
+	<stdio.h>
+	<windows.h>
+	"lista.h"
+	"console.h"
+	"controle.h"
+	"bala.h"
+	"alvo.h"
+
+1599100084 d:\programacao\linguagem c\programas\jogo\bala.h
+
+1599098916 source:d:\programacao\linguagem c\programas\jogo\bala.c
+	<stdio.h>
+	<unistd.h>
+	"lista.h"
+	"console.h"
+	"controle.h"
+	"bala.h"
+	"alvo.h"
+
+1599878052 source:d:\programacao\linguagem c\programas\tiro ao alvo\console.c
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	"console.h"
+	"borders.h"
+
+1599878060 d:\programacao\linguagem c\programas\tiro ao alvo\console.h
+
+1599885015 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\bullet.c
+	<stdio.h>
+	<unistd.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+	"bullet.h"
+	"target.h"
+
+1599882175 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\target.c
+	<stdio.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+	"bullet.h"
+	"target.h"
+	"player.h"
+
+1599875665 source:d:\programacao\linguagem c\programas\tiro ao alvo\main.c
+	<unistd.h>
+	<windows.h>
+	"list.h"
+	"console.h"
+	"playerName.h"
+	"borders.h"
+	"Menu/index.h"
+	"Menu/gameKeys.h"
+	"Menu/credits.h"
+	"Menu/quitGame.h"
+	"Game/difficulty.h"
+	"Game/index.h"
+
+1599877268 d:\programacao\linguagem c\programas\tiro ao alvo\list.h
+
+1599888263 d:\programacao\linguagem c\programas\tiro ao alvo\game\index.h
+
+1599252945 d:\programacao\linguagem c\programas\tiro ao alvo\game\avatar.h
+
+1599683440 d:\programacao\linguagem c\programas\tiro ao alvo\game\bullet.h
+
+1599351672 d:\programacao\linguagem c\programas\tiro ao alvo\game\target.h
+
+1599793877 source:d:\programacao\linguagem c\programas\tiro ao alvo\menu\index.c
+	<stdio.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"../borders.h"
+	"index.h"
+
+1599253029 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\avatar.c
+	<stdio.h>
+	"../list.h"
+	"../console.h"
+	"avatar.h"
+
+1599877248 source:d:\programacao\linguagem c\programas\tiro ao alvo\list.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"console.h"
+	"borders.h"
+	"Game/player.h"
+
+1599890578 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\index.c
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"../borders.h"
+	"../Menu/index.h"
+	"difficulty.h"
+	"tutorial.h"
+	"index.h"
+	"bullet.h"
+	"target.h"
+	"obstacle.h"
+	"player.h"
+	"ammo.h"
+	"Endings/gameOver.h"
+	"Endings/gameWon.h"
+
+1599885845 d:\programacao\linguagem c\programas\tiro ao alvo\game\player.h
+
+1599254681 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\player.c
+	<stdio.h>
+	"../list.h"
+	"../console.h"
+	"player.h"
+
+1599820246 d:\programacao\linguagem c\programas\tiro ao alvo\menu\index.h
+
+1599683563 d:\programacao\linguagem c\programas\tiro ao alvo\borders.h
+
+1599794154 source:d:\programacao\linguagem c\programas\tiro ao alvo\borders.c
+	<stdio.h>
+	"list.h"
+	"console.h"
+	"borders.h"
+
+1599885087 source:d:\programacao\linguagem c\programas\tiro ao alvo\menu\quitgame.c
+	<stdio.h>
+	<unistd.h>
+	<windows.h>
+	"../console.h"
+	"../list.h"
+	"../borders.h"
+	"../Game/target.h"
+
+1599260612 d:\programacao\linguagem c\programas\tiro ao alvo\menu\quitgame.h
+
+1599793927 source:d:\programacao\linguagem c\programas\tiro ao alvo\menu\credits.c
+	<stdio.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+
+1599793919 source:d:\programacao\linguagem c\programas\tiro ao alvo\menu\gamekeys.c
+	<stdio.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+
+1599267717 d:\programacao\linguagem c\programas\tiro ao alvo\menu\gamekeys.h
+
+1599267457 d:\programacao\linguagem c\programas\tiro ao alvo\menu\credits.h
+
+1599886877 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\difficulty.c
+	<stdio.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"../borders.h"
+	"difficulty.h"
+	"player.h"
+
+1599860369 d:\programacao\linguagem c\programas\tiro ao alvo\game\difficulty.h
+
+1599791500 d:\programacao\linguagem c\programas\tiro ao alvo\playername.h
+
+1599889333 source:d:\programacao\linguagem c\programas\tiro ao alvo\playername.c
+	<stdio.h>
+	<conio.h>
+	<unistd.h>
+	"list.h"
+	"console.h"
+	"Menu/quitGame.h"
+	"Game/player.h"
+
+1599887171 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\ammo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<unistd.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+	"player.h"
+	"difficulty.h"
+
+1599866963 d:\programacao\linguagem c\programas\tiro ao alvo\game\ammo.h
+
+1599886580 d:\programacao\linguagem c\programas\tiro ao alvo\game\obstacle.h
+
+1599888728 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\obstacle.c
+	<stdio.h>
+	<windows.h>
+	"../list.h"
+	"../console.h"
+	"index.h"
+	"bullet.h"
+
+1599882711 d:\programacao\linguagem c\programas\tiro ao alvo\game\endings\gameover.h
+
+1599882519 d:\programacao\linguagem c\programas\tiro ao alvo\game\endings\gamewon.h
+
+1599890893 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\endings\gameover.c
+	<stdio.h>
+	<windows.h>
+	"../../list.h"
+	"../../console.h"
+	"../../borders.h"
+	"../../Menu/index.h"
+	"../difficulty.h"
+	"../target.h"
+	"../ammo.h"
+
+1599890891 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\endings\gamewon.c
+	<stdio.h>
+	<windows.h>
+	"../../list.h"
+	"../../console.h"
+	"../../borders.h"
+	"../../Menu/index.h"
+	"../difficulty.h"
+	"../target.h"
+	"../ammo.h"
+
+1599889463 d:\programacao\linguagem c\programas\tiro ao alvo\game\tutorial.h
+
+1599890914 source:d:\programacao\linguagem c\programas\tiro ao alvo\game\tutorial.c
+	<stdio.h>
+	"../console.h"
+

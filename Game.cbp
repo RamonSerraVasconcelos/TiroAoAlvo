@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tiro ao Alvo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Jogo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Game/Endings/gameOver.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/Endings/gameOver.h" />
+		<Unit filename="Game/Endings/gameWon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/Endings/gameWon.h" />
+		<Unit filename="Game/ammo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/ammo.h" />
+		<Unit filename="Game/bullet.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/bullet.h" />
+		<Unit filename="Game/difficulty.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/difficulty.h" />
+		<Unit filename="Game/index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/index.h" />
+		<Unit filename="Game/obstacle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/obstacle.h" />
+		<Unit filename="Game/player.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/player.h" />
+		<Unit filename="Game/target.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/target.h" />
+		<Unit filename="Game/tutorial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game/tutorial.h" />
+		<Unit filename="Menu/credits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu/credits.h" />
+		<Unit filename="Menu/gameKeys.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu/gameKeys.h" />
+		<Unit filename="Menu/index.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu/index.h" />
+		<Unit filename="Menu/quitGame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menu/quitGame.h" />
+		<Unit filename="borders.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="borders.h" />
+		<Unit filename="console.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="console.h" />
+		<Unit filename="list.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="list.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="playerName.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="playerName.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
